@@ -1,0 +1,25 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+data/
+statefarm_data/
+
+# Models
+models/*.h5
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
