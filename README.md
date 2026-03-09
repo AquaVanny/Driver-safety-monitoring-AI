@@ -78,4 +78,4 @@ Press `q` to quit the webcam feed.
 Contributions, issues, and feature requests are welcome!
 
 ## 📜 License
-This project is licensed under the MIT License.
+
